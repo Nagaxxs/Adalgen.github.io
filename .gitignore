@@ -1,0 +1,15 @@
+# ОС и редакторы
+.DS_Store
+Thumbs.db
+desktop.ini
+.vscode/
+.idea/
+*.swp
+*~
+
+# Локальные/служебные файлы
+node_modules/
+*.log
+.env
+.env.*
+*.zip
